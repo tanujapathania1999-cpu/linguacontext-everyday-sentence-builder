@@ -1,0 +1,7 @@
+{
+  "name": "LinguaContext - Everyday Sentence Builder",
+  "description": "Enter any word in any language to discover 10 natural, conversational everyday sentences with English translations and pronunciation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
